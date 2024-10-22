@@ -11,4 +11,4 @@
 
 # Pasos para correr el proyecto
 1. correr el frontend: `cd frontend && npm start`
-2. correr el backend: `cd backend && npm start`
+2. correr el backend: `cd backend && php artisan serve`
