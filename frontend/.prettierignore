@@ -1,0 +1,9 @@
+README.md
+package-lock.json
+package.json
+.eslintrc.js
+.prettierrc
+public/manifest.json
+dist
+build
+src/.functions
